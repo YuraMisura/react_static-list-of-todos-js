@@ -1,0 +1,2 @@
+:root{--title-color:red;--title-color-completed:#080}iframe{display:none}html{font-family:Arial,"Helvetica Neue",Helvetica,sans-serif}.TodoList__list{list-style-type:none;padding:0;margin:0}.TodoInfo{width:-webkit-max-content;width:max-content;padding:8px;margin:12px 0;border:1px solid #000;border-radius:8px;background-color:#faebd7}.TodoInfo__title{margin:4px 0;font-size:inherit;color:var(--title-color)}.TodoInfo--completed .TodoInfo__title{color:var(--title-color-completed)}.UserInfo{font-style:italic}
+/*# sourceMappingURL=main.3dbb279c.chunk.css.map */
